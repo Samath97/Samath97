@@ -3,7 +3,7 @@
 - 🔭 I’m currently finishing my Master's Degree in Machine Learning and AI at Aalto University
 - 🌱 I’m currently learning Machine Learning, Python, React, Javascript, etc 
 - 👯 I’m looking for IT work positions.
-- 📫 How to reach me: [...](https://www.linkedin.com/in/samath-lokuge/)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/samath-lokuge/)
 
 <!--
 **Samath97/Samath97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
