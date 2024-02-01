@@ -5,7 +5,7 @@ I am a Computer Science master's degree student from Aalto University, focusing 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>   
